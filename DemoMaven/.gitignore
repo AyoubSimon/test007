@@ -1,0 +1,13 @@
+#maven
+#on ne traite pas le dosssier target de maven
+target/
+#ide
+#fichier de config eclipse
+.classpath
+.project
+.settings/
+#fichier de config vscode
+.vscode/
+#macos is a big shit files
+.ds_store
+Thumbs.db
